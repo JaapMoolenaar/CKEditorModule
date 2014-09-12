@@ -1,0 +1,28 @@
+{
+    "name": "satsume/CKEditorModule",
+    "description": "A module to implement a ckeditor form element for Zend Framework 2.",
+    "license": "BSD-2-Clause",
+    "type": "library",
+    "keywords": [
+        "ckeditor",
+        "ckeditor module",
+        "zf2",
+        "zend framework 2"
+    ],
+    "homepage": "https://github.com/satsume/CKEditorModule",
+    "authors": [
+        {
+            "name": "Jaap Moolenaar",
+            "email": "jaap.moolenaar@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework": "2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "CKEditorModule": "src/"
+        }
+    }
+}
