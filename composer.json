@@ -1,5 +1,5 @@
 {
-    "name": "satsume/CKEditorModule",
+    "name": "satsume/ckeditor-module",
     "description": "A module to implement a ckeditor form element for Zend Framework 2.",
     "license": "BSD-2-Clause",
     "type": "library",
