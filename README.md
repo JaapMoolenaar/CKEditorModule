@@ -1,6 +1,5 @@
 # CKEditorModule
-[![Version](http://img.shields.io/badge/version-0.1.0-brightgreen.svg)](https://github.com/Satsume/CKEditorModule/releases/tag/0.1.0) [![Build Status](https://travis-ci.org/Satsume/CKEditorModule.svg?branch=master)](https://travis-ci.org/Satsume/CKEditorModule)
-
+[![Latest Stable Version](https://poser.pugx.org/satsume/ckeditor-module/v/stable.svg)](https://packagist.org/packages/satsume/ckeditor-module) [![Latest Unstable Version](https://poser.pugx.org/satsume/ckeditor-module/v/unstable.svg)](https://packagist.org/packages/satsume/ckeditor-module) [![Build Status](https://travis-ci.org/Satsume/CKEditorModule.svg?branch=master)](https://travis-ci.org/Satsume/CKEditorModule)
 
 ## Introduction
 This module allows you to use a ckeditor form field more easily using some basic
