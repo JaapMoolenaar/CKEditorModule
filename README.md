@@ -1,5 +1,6 @@
 # CKEditorModule
-[![Build Status](https://travis-ci.org/Satsume/CKEditorModule.svg?branch=master)](https://travis-ci.org/Satsume/CKEditorModule)
+[![Version](http://img.shields.io/badge/version-0.1.0-brightgreen.svg)](https://github.com/Satsume/CKEditorModule/releases/tag/0.1.0) [![Build Status](https://travis-ci.org/Satsume/CKEditorModule.svg?branch=master)](https://travis-ci.org/Satsume/CKEditorModule)
+
 
 ## Introduction
 This module allows you to use a ckeditor form field more easily using some basic
