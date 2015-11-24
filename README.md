@@ -48,7 +48,7 @@ More info can be found in [zf2's documentation](http://framework.zend.com/manual
 
 
 ## CKFinder
-If you include the [CKFinderModule](https://github.com/Satsume/CKEditorModule) in your application, the ckfinder config is automatically added to the ckeditor config:
+If you include the [CKFinderModule](https://github.com/Satsume/CKFinderModule) in your application, the ckfinder config is automatically added to the ckeditor config:
 ```php
 'ckeditor_ckfinder_options' => array(
   'filebrowserBrowseUrl' => '/ckfinder/ckfinder.html',
