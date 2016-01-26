@@ -101,7 +101,7 @@ class FormCKEditor extends \Zend\Form\View\Helper\FormTextarea
 
         // Because zf merges arrays instead of overwriting them in the config,
         // we allow a callback and use the return as the toolbar array
-        if (array_key_exists('toolbar', $config['ckeditor_options']) 
+        if (array_key_exists('toolbar', $config['ckeditor_options'])
             && is_callable($config['ckeditor_options']['toolbar'])
         ) {
             $toolbar = $config['ckeditor_options']['toolbar']();
