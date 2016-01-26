@@ -152,6 +152,8 @@ class FormCKEditor extends \Zend\Form\View\Helper\FormTextarea
                                     . '}' . "\n"
                                 . '}, 100);' . "\n"
                             . '}' . "\n"
+                        . '} else {' . "\n"
+                            . $loadFunctionName . '();' . "\n"
                         . '}' . "\n"
                     . '})();' . "\n"
                 . '</script>' . "\n";
