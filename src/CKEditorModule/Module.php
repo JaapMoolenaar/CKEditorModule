@@ -1,5 +1,4 @@
 <?php
-
 namespace CKEditorModule;
 
 class Module

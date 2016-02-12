@@ -1,5 +1,4 @@
 <?php
-
 namespace CKEditorModule\Form\View\Helper;
 
 use Zend\Json\Json as JsonFormatter;
